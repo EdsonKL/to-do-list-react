@@ -17,7 +17,7 @@ function App() {
     },
     {
       id: 2,
-      text: "Estudar Inglês",
+      text: "Estudar Inglês ",
       category: "Pessoal",
       isCompleted: false
     },
